@@ -1,6 +1,6 @@
 # Felix Müllner
 
-Junior software developer in Linz, Austria, studying IT at HTL Leonding's evening college after 60 ECTS of computer science at JKU. I've worked on a C# / .NET codebase at ControllerBOX, and in my own projects I build with Claude Code using whichever tech stack fits the project. Notable mentions are JavaScript, Node, Express, TypeScript, Vite, etc.
+Junior software developer (Java, JavaScript, C# / .NET) in Linz, Austria, studying IT at HTL Leonding's evening college after 60 ECTS of computer science at JKU. I've worked on a C# / .NET codebase at ControllerBOX, and in my own projects I build with Claude Code using whichever tech stack fits the project. Notable mentions are JavaScript, Node, Express, TypeScript, Vite, etc.
 
 ## How I work with AI
 
